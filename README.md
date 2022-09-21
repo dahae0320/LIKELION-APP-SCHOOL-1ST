@@ -1,4 +1,4 @@
-# 🦁LIKELION-APP-SCHOOL-1ST
+# 🦁LIKELION APP SCHOOL 1ST
 멋쟁이사자차럼 앱 스쿨 1기의 수업 내용을 기록합니다.
 
 <!--
