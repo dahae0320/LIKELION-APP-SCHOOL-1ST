@@ -18,7 +18,7 @@
 | Week | Day | Date | Contents | ✅ |
 |:----:|:---:|:----:|:----:|:--:|
 |`2 week`| Day 4 | 22.09.19 | [스프린트회고, Swift Tour](https://dadahae0320.tistory.com/10)  | ✔️ |
-|`2 week`| Day 5 | 22.09.20 | CS기초(알고리즘) | X |
+|`2 week`| Day 5 | 22.09.20 | CS기초(알고리즘) - [결석](https://dadahae0320.tistory.com/11?category=968118) | X |
 |`2 week`| Day 6 | 22.09.21 | Swift | ✔️ |
 |`2 week`| Day 7 | 22.09.22 | Swift | ✔️ |
 |`2 week`| Day 8 | 22.09.23 | Swift | ✔️ |
