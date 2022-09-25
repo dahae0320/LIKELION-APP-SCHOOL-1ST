@@ -4,8 +4,11 @@
 <!--
 | Week | Day | Date | Contents | ✅ |
 |:----:|:---:|:----:|:----:|:--:|
-|`2 week`| Day 4 | 22.09.19 |  |  |
-|`2 week`| Day 5 | 22.09.20 |  |  |
+|` week`| Day  | 22. |  |  |
+|` week`| Day  | 22. |  |  |
+|` week`| Day  | 22. |  |  |
+|` week`| Day  | 22. |  |  |
+|` week`| Day  | 22. |  |  |
 -->
 
 ### TIL
@@ -22,3 +25,11 @@
 |`2 week`| Day 6 | 22.09.21 | [Swift 사전 지식 (데이터타입/변수/상수/튜플)](https://dadahae0320.tistory.com/12) | ✔️ |
 |`2 week`| Day 7 | 22.09.22 | [Swift (옵셔널, 연산자와 표현식)](https://dadahae0320.tistory.com/13) | ✔️ |
 |`2 week`| Day 8 | 22.09.23 | [Swift (반복문, 조건문)](https://dadahae0320.tistory.com/14) | ✔️ |
+
+| Week | Day | Date | Contents | ✅ |
+|:----:|:---:|:----:|----|:--:|
+|`3 week`| Day 9 | 22.09.26 |   |  |
+|`3 week`| Day 10 | 22.09.27 |  |  |
+|`3 week`| Day 11 | 22.09.28 |  | ✔ |
+|`3 week`| Day 12 | 22.09.29 |  |  |
+|`3 week`| Day 13 | 22.09.30 |  |  |
