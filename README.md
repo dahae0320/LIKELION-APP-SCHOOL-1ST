@@ -27,7 +27,7 @@
 |`2 week`| Day 8 | 22.09.23 | [Swift (반복문, 조건문)](https://dadahae0320.tistory.com/14) | ✔️ |
 
 | Week | Day | Date | Contents | ✅ |
-|:----:|:---:|:----:|----|:--:|
+|:----:|:---:|:----:|:----:|:--:|
 |`3 week`| Day 9 | 22.09.26 | Swift |  |
 |`3 week`| Day 10 | 22.09.27 | Swift |  |
 |`3 week`| Day 11 | 22.09.28 | Swift |  |
