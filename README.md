@@ -28,7 +28,7 @@
 
 | Week | Day | Date | Contents | ✅ |
 |:----:|:---:|:----:|:----:|:--:|
-|`3 week`| Day 9 | 22.09.26 | Swift |  |
+|`3 week`| Day 9 | 22.09.26 | Swift (함수, 메서드, 클로저) |  |
 |`3 week`| Day 10 | 22.09.27 | Swift |  |
 |`3 week`| Day 11 | 22.09.28 | Swift |  |
 |`3 week`| Day 12 | 22.09.29 | Swift |  |
