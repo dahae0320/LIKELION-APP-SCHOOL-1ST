@@ -30,6 +30,6 @@
 |:----:|:---:|:----:|:----:|:--:|
 |`3 week`| Day 9 | 22.09.26 | [Swift (함수, 메서드, 클로저)](https://dadahae0320.tistory.com/15) | ✔️ |
 |`3 week`| Day 10 | 22.09.27 | [Swift (객체지향 프로그래밍 기초)](https://dadahae0320.tistory.com/16) | ✔️ |
-|`3 week`| Day 11 | 22.09.28 | Swift |  |
-|`3 week`| Day 12 | 22.09.29 | Swift |  |
+|`3 week`| Day 11 | 22.09.28 | Swift (상속, 서브 클래싱, 익스텐션) | ✔️ |
+|`3 week`| Day 12 | 22.09.29 | Swift (구조체, 프로퍼티 래퍼, 배열, 딕셔너리) | ✔️ |
 |`3 week`| Day 13 | 22.09.30 | Swift |  |
