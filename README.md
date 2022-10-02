@@ -32,7 +32,7 @@
 |`3 week`| Day 10 | 22.09.27 | [Swift (객체지향 프로그래밍 기초)](https://dadahae0320.tistory.com/16) | ✔️ |
 |`3 week`| Day 11 | 22.09.28 | [Swift (상속, 서브 클래싱, 익스텐션)](https://dadahae0320.tistory.com/17) | ✔️ |
 |`3 week`| Day 12 | 22.09.29 | [Swift (구조체, 프로퍼티 래퍼, 배열, 딕셔너리)](https://dadahae0320.tistory.com/18) | ✔️ |
-|`3 week`| Day 13 | 22.09.30 | [오픈소스, Git/GitHub]() | ✔️ |
+|`3 week`| Day 13 | 22.09.30 | 오픈소스, Git/GitHub | ✔️ |
 
 | Week | Day | Date | Contents | ✅ |
 |:----:|:---:|:----:|:----:|:--:|
