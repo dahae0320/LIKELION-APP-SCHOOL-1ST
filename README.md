@@ -37,8 +37,8 @@
 | Week | Day | Date | Contents | ✅ |
 |:----:|:---:|:----:|:----:|:--:|
 |`4 week`| `개천절 휴강` | 22.10.03 | - | - |
-|`4 week`| Day 14 | 22.10.04 | Swift (Error Handling, Type, Generic, POP) | ✔️ |
-|`4 week`| Day 15 | 22.10.05 |  |  |
+|`4 week`| Day 14 | 22.10.04 | [Swift (Error Handling, Type, Generic, POP)](https://dadahae0320.tistory.com/20?category=968118) | ✔️ |
+|`4 week`| Day 15 | 22.10.05 | Swift (Closure), Objectiv-C 찍먹 | ✔️ |
 |`4 week`| Day 16 | 22.10.06 |  |  |
 |`4 week`| Day 17 | 22.10.07 |  |  |
 
