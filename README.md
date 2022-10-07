@@ -40,7 +40,7 @@
 |`4 week`| Day 14 | 22.10.04 | [Swift (Error Handling, Type, Generic, POP)](https://dadahae0320.tistory.com/20?category=968118) | ✔️ |
 |`4 week`| Day 15 | 22.10.05 | [Swift (Closure), Objective-C 찍먹](https://dadahae0320.tistory.com/21) | ✔️ |
 |`4 week`| Day 16 | 22.10.06 | [Objective-C](https://dadahae0320.tistory.com/22) | ✔️ |
-|`4 week`| Day 17 | 22.10.07 |  |  |
+|`4 week`| Day 17 | 22.10.07 | Objective-C, Cocoapods & SPM 찍먹 | ✔️ |
 
 
 <br>
