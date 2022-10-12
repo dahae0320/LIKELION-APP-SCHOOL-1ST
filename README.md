@@ -43,10 +43,10 @@
 |`4 week`| Day 17 | 22.10.07 | [Objective-C, Cocoapods & SPM 찍먹](https://dadahae0320.tistory.com/23) | ✔️ |
 
 | Week | Day | Date | Contents | ✅ |
-|:----:|:---:|:----:|----|:--:|
+|:----:|:---:|:----:|:----:|:--:|
 |`5 week`| `한글날 휴강` | 22.10.10 | - | - |
-|`5 week`| Day 18 | 22.10.11 | Objective-C | ✔️ |
-|`5 week`| Day 19 | 22.10.12 |  |  |
+|`5 week`| Day 18 | 22.10.11 | [Objective-C (struct, typedef, class, extension)](https://dadahae0320.tistory.com/24) | ✔️ |
+|`5 week`| Day 19 | 22.10.12 | Objective-C (Protocol, Dynamic binding, ...)| ✔️ |
 |`5 week`| Day 20 | 22.10.13 |  |  |
 |`5 week`| Day 21 | 22.10.14 |  |  |
 
