@@ -47,8 +47,8 @@
 |`5 week`| `한글날 휴강` | 22.10.10 | - | - |
 |`5 week`| Day 18 | 22.10.11 | [Objective-C (struct, typedef, class, extension)](https://dadahae0320.tistory.com/24) | ✔️ |
 |`5 week`| Day 19 | 22.10.12 | Objective-C (Protocol, Dynamic binding, ...)| ✔️ |
-|`5 week`| Day 20 | 22.10.13 |  |  |
-|`5 week`| Day 21 | 22.10.14 |  |  |
+|`5 week`| Day 20 | 22.10.13 | Xcode 실습 | ✔️ |
+|`5 week`| Day 21 | 22.10.14 | CSS와 Typography, Xcode 실습 | ✔️ |
 
 <br>
 
