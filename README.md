@@ -50,6 +50,14 @@
 |`5 week`| Day 20 | 22.10.13 | Xcode 실습 (objc, swift) | ✔️ |
 |`5 week`| Day 21 | 22.10.14 | CSS와 Typography, Xcode 실습 (계산기) | ✔️ |
 
+| Week | Day | Date | Contents | ✅ |
+|:----:|:---:|:----:|:----:|:--:|
+|`6 week`| Day 22 | 22.10.15 |  |  |
+|`6 week`| Day 23 | 22.10.16 |  |  |
+|`6 week`| Day 24 | 22.10.17 |  |  |
+|`6 week`| Day 25 | 22.10.18 |  |  |
+|`6 week`| Day 26 | 22.10.19 |  |  |
+
 <br>
 
 ### Recap
