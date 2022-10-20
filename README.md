@@ -47,15 +47,15 @@
 |`5 week`| `한글날 휴강` | 22.10.10 | - | - |
 |`5 week`| Day 18 | 22.10.11 | [Objective-C (struct, typedef, class, extension)](https://dadahae0320.tistory.com/24) | ✔️ |
 |`5 week`| Day 19 | 22.10.12 | HTML, [Objective-C](https://dadahae0320.tistory.com/25) | ✔️ |
-|`5 week`| Day 20 | 22.10.13 | Xcode 실습 (objc, swift) | ✔️ |
-|`5 week`| Day 21 | 22.10.14 | CSS와 Typography, Xcode 실습 (계산기) | ✔️ |
+|`5 week`| Day 20 | 22.10.13 | Xcode 실습 (Obj-C, Swift) | ✔️ |
+|`5 week`| Day 21 | 22.10.14 | CSS, Xcode 실습(UIKit 계산기) | ✔️ |
 
 | Week | Day | Date | Contents | ✅ |
 |:----:|:---:|:----:|:----:|:--:|
-|`6 week`| Day 22 | 22.10.15 |  |  |
-|`6 week`| Day 23 | 22.10.16 |  |  |
-|`6 week`| Day 24 | 22.10.17 |  |  |
-|`6 week`| Day 25 | 22.10.18 |  |  |
+|`6 week`| Day 22 | 22.10.15 | 스프린트회고, SwiftUI 시작하기 | ✔️ |
+|`6 week`| Day 23 | 22.10.16 | SwiftUI 기초(도입, View, CustomView) | ✔️ |
+|`6 week`| Day 24 | 22.10.17 | SwiftUI 기초(Stack, Frame, State) | ✔️ |
+|`6 week`| Day 25 | 22.10.18 | Typography, SwiftUI 기초(숫자 게임) | ✔️ |
 |`6 week`| Day 26 | 22.10.19 |  |  |
 
 <br>
