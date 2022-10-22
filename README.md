@@ -48,15 +48,23 @@
 |`5 week`| Day 18 | 22.10.11 | [Objective-C (struct, typedef, class, extension)](https://dadahae0320.tistory.com/24) | ✔️ |
 |`5 week`| Day 19 | 22.10.12 | HTML, [Objective-C](https://dadahae0320.tistory.com/25) | ✔️ |
 |`5 week`| Day 20 | 22.10.13 | [Xcode 실습 (Obj-C, Swift)](https://dadahae0320.tistory.com/26) | ✔️ |
-|`5 week`| Day 21 | 22.10.14 | CSS, Xcode 실습(UIKit 계산기) | ✔️ |
+|`5 week`| Day 21 | 22.10.14 | [Xcode 실습(UIKit 계산기), CSS](https://dadahae0320.tistory.com/27) | ✔️ |
 
 | Week | Day | Date | Contents | ✅ |
 |:----:|:---:|:----:|:----:|:--:|
-|`6 week`| Day 22 | 22.10.15 | 스프린트회고, SwiftUI 시작하기 | ✔️ |
-|`6 week`| Day 23 | 22.10.16 | SwiftUI 기초(도입, View, CustomView) | ✔️ |
-|`6 week`| Day 24 | 22.10.17 | SwiftUI 기초(Stack, Frame, State) | ✔️ |
-|`6 week`| Day 25 | 22.10.18 | Typography, SwiftUI 기초(숫자 게임) | ✔️ |
-|`6 week`| Day 26 | 22.10.19 |  |  |
+|`6 week`| Day 22 | 22.10.17 | 스프린트회고, SwiftUI 시작하기 | ✔️ |
+|`6 week`| Day 23 | 22.10.18 | SwiftUI 기초(도입, View, CustomView) | ✔️ |
+|`6 week`| Day 24 | 22.10.19 | SwiftUI 기초(Stack, Frame, State) | ✔️ |
+|`6 week`| Day 25 | 22.10.20 | Typography, SwiftUI 기초(숫자 게임) | ✔️ |
+|`6 week`| Day 26 | 22.10.21 | SwiftUI 기초(룰렛 게임) | ✔️ |
+
+| Week | Day | Date | Contents | ✅ |
+|:----:|:---:|:----:|:----:|:--:|
+|`7 week`| Day 27 | 22.10.24 |  |  |
+|`7 week`| Day 28 | 22.10.25 |  |  |
+|`7 week`| Day 29 | 22.10.26 |  |  |
+|`7 week`| Day 30 | 22.10.27 |  |  |
+|`7 week`| Day 31 | 22.10.28 |  |  |
 
 <br>
 
