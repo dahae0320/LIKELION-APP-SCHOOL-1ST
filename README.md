@@ -52,8 +52,8 @@
 
 | Week | Day | Date | Contents | ✅ |
 |:----:|:---:|:----:|:----:|:--:|
-|`6 week`| Day 22 | 22.10.17 | 스프린트회고, SwiftUI 시작하기 | ✔️ |
-|`6 week`| Day 23 | 22.10.18 | SwiftUI 기초(도입, View, CustomView) | ✔️ |
+|`6 week`| Day 22 | 22.10.17 | 스프린트회고, [SwiftUI 시작하기](https://dadahae0320.tistory.com/28) | ✔️ |
+|`6 week`| Day 23 | 22.10.18 | [SwiftUI 기초(개요, Xcode, CustomView)](https://dadahae0320.tistory.com/29) | ✔️ |
 |`6 week`| Day 24 | 22.10.19 | SwiftUI 기초(Stack, Frame, State) | ✔️ |
 |`6 week`| Day 25 | 22.10.20 | Typography, SwiftUI 기초(숫자 게임) | ✔️ |
 |`6 week`| Day 26 | 22.10.21 | SwiftUI 기초(룰렛 게임) | ✔️ |
