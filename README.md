@@ -98,6 +98,28 @@
 |`7 week`| Day 30 | 22.10.27 | CSS와 Typography, Graphic Drawing Basic | ✔️ |
 |`7 week`| `정기 휴강` | 22.10.28 | - |  |
 
+
+#### 8주차
+
+| Week | Day | Date | Contents | ✅ |
+|:----:|:---:|:----:|:----:|:--:|
+|`8 week`| Day 31 | 22.10.31 | Animation, Transition | ✔️ |
+|`8 week`| Day 32 | 22.11.01 | Gesture  ✔️ |
+|`8 week`| Day 33 | 22.11.02 | UIKit를 SwiftUI에 통합하기(UIView, UIViewController) | ✔️ |
+|`8 week`| Day 34 | 22.11.03 | Prototype 프로젝트 준비, Human Interface Guidelines(1) | ✔️ |
+|`8 week`| Day 35 | 22.11.04 | `테킷 - 온라인학습` | ✔️ |
+
+
+#### 9주차
+
+| Week | Day | Date | Contents | ✅ |
+|:----:|:---:|:----:|:----:|:--:|
+|`9 week`| Day 36 | 22.11.07 | Prototype 1탄(아이디어, 팀빌딩), 스프린트 회고 | ✔️ |
+|`9 week`| Day 37 | 22.11.08 | Prototype 2탄(기획, 개발) | ✔️ |
+|`9 week`| Day 38 | 22.11.09 | Prototype 3탄(개발, 테스트) | ✔️ |
+|`9 week`| Day 39 | 22.11.10 | Prototype 4탄(팀원 교체, 피드백 사항 적용), Human Interface Guidelines(2) | ✔️ |
+|`9 week`| Day 40 | 22.11.11 | Prototype 5탄(Demo 발표) | ✔️ |
+
 <br>
 
 ### Recap
