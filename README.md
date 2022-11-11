@@ -104,7 +104,7 @@
 | Week | Day | Date | Contents | ✅ |
 |:----:|:---:|:----:|:----:|:--:|
 |`8 week`| Day 31 | 22.10.31 | Animation, Transition | ✔️ |
-|`8 week`| Day 32 | 22.11.01 | Gesture  ✔️ |
+|`8 week`| Day 32 | 22.11.01 | Gesture | ✔️ |
 |`8 week`| Day 33 | 22.11.02 | UIKit를 SwiftUI에 통합하기(UIView, UIViewController) | ✔️ |
 |`8 week`| Day 34 | 22.11.03 | Prototype 프로젝트 준비, Human Interface Guidelines(1) | ✔️ |
 |`8 week`| Day 35 | 22.11.04 | `테킷 - 온라인학습` | ✔️ |
