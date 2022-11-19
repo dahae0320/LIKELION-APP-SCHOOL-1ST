@@ -21,7 +21,10 @@
 * [5주차](#5주차)
 * [6주차](#6주차)
 * [7주차](#7주차)
-
+* [8주차](#8주차)
+* [9주차](#9주차)
+* [10주차](#10주차)
+* [11주차](#11주차)
 
 
 #### 1주차
@@ -96,7 +99,7 @@
 |`7 week`| Day 28 | 22.10.25 | List, Navigation | ✔️ |
 |`7 week`| Day 29 | 22.10.26 | Tab View, Context Menu Binding | ✔️ |
 |`7 week`| Day 30 | 22.10.27 | CSS와 Typography, Graphic Drawing Basic | ✔️ |
-|`7 week`| `정기 휴강` | 22.10.28 | - |  |
+|`7 week`| `정기 휴강` | 22.10.28 | - | - |
 
 
 #### 8주차
@@ -119,6 +122,27 @@
 |`9 week`| Day 38 | 22.11.09 | Prototype 3탄(개발, 테스트) | ✔️ |
 |`9 week`| Day 39 | 22.11.10 | Prototype 4탄(팀원 교체, 피드백 사항 적용), Human Interface Guidelines(2) | ✔️ |
 |`9 week`| Day 40 | 22.11.11 | Prototype 5탄(Demo 발표) | ✔️ |
+
+
+#### 10주차
+| Week | Day | Date | Contents | ✅ |
+|:----:|:---:|:----:|:----:|:--:|
+|`10 week`| Day 41 | 22.11.14 | Prototype 1탄(카테고리 선택, 팀빌딩, 기획), 다국어처리 | ✔️ |
+|`10 week`| Day 42 | 22.11.15 | Prototype 2탄(개발, 테스트, 팀원 교체), SwiftUI 4.0(NavigationStack, Grid) | ✔️ |
+|`10 week`| Day 43 | 22.11.16 | Prototype 3탄(피드백 사항 적용, 발표 준비), SwiftUI 4.0(ShareLink, PhotoUI) | ✔️ |
+|`10 week`| Day 44 | 22.11.17 | Prototype 4탄(Demo 발표), SwiftUI 4.0(Charts) | ✔️ |
+|`10 week`| `정기 휴강` | 22.11.18 | - | - |
+
+
+#### 11주차
+| Week | Day | Date | Contents | ✅ |
+|:----:|:---:|:----:|:----:|:--:|
+|`11 week`| Day 45 | 22.11.21 |  |  |
+|`11 week`| Day 46 | 22.11.22 |  |  |
+|`11 week`| Day 47 | 22.11.23 |  |  |
+|`11 week`| Day 48 | 22.11.24 |  |  |
+|`11 week`| Day 49 | 22.11.25 |  |  |
+
 
 <br>
 
