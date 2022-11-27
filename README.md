@@ -139,9 +139,9 @@
 |:----:|:---:|:----:|------|:--:|
 |`11 week`| Day 45 | 22.11.21 | Networking | ✔️ |
 |`11 week`| Day 46 | 22.11.22 | Concurrency | ✔️ |
-|`11 week`| Day 47 | 22.11.23 |  |  |
-|`11 week`| Day 48 | 22.11.24 |  |  |
-|`11 week`| Day 49 | 22.11.25 |  |  |
+|`11 week`| Day 47 | 22.11.23 | API 연결1, Human Interface Guidelines(3) | ✔️ |
+|`11 week`| Day 48 | 22.11.24 | API 연결2 | ✔️ |
+|`11 week`| Day 49 | 22.11.25 | SwiftUI Tutorial | ✔️ |
 
 
 <br>
