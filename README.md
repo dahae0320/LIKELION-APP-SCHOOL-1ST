@@ -117,20 +117,20 @@
 
 | Week | Day | Date | Contents | ✅ |
 |:----:|:---:|:----:|------|:--:|
-|`9 week`| Day 36 | 22.11.07 | Prototype 1탄(아이디어, 팀빌딩), 스프린트 회고 | ✔️ |
-|`9 week`| Day 37 | 22.11.08 | Prototype 2탄(기획, 개발) | ✔️ |
-|`9 week`| Day 38 | 22.11.09 | Prototype 3탄(개발, 테스트) | ✔️ |
-|`9 week`| Day 39 | 22.11.10 | Prototype 4탄(팀원 교체, 피드백 사항 적용), Human Interface Guidelines(2) | ✔️ |
-|`9 week`| Day 40 | 22.11.11 | Prototype 5탄(Demo 발표) | ✔️ |
+|`9 week`| Day 36 | 22.11.07 | Prototype 시즌1 1탄(아이디어, 팀빌딩), 스프린트 회고 | ✔️ |
+|`9 week`| Day 37 | 22.11.08 | Prototype 시즌1 2탄(기획, 개발) | ✔️ |
+|`9 week`| Day 38 | 22.11.09 | Prototype 시즌1 3탄(개발, 테스트) | ✔️ |
+|`9 week`| Day 39 | 22.11.10 | Prototype 시즌1 4탄(팀원 교체, 피드백 사항 적용), Human Interface Guidelines(2) | ✔️ |
+|`9 week`| Day 40 | 22.11.11 | Prototype 시즌1 5탄(Demo 발표) | ✔️ |
 
 
 #### 10주차
 | Week | Day | Date | Contents | ✅ |
 |:----:|:---:|:----:|------|:--:|
-|`10 week`| Day 41 | 22.11.14 | Prototype 1탄(카테고리 선택, 팀빌딩, 기획), 다국어처리 | ✔️ |
-|`10 week`| Day 42 | 22.11.15 | Prototype 2탄(개발, 테스트, 팀원 교체), SwiftUI 4.0(NavigationStack, Grid) | ✔️ |
-|`10 week`| Day 43 | 22.11.16 | Prototype 3탄(피드백 사항 적용, 발표 준비), SwiftUI 4.0(ShareLink, PhotoUI) | ✔️ |
-|`10 week`| Day 44 | 22.11.17 | Prototype 4탄(Demo 발표), SwiftUI 4.0(Charts) | ✔️ |
+|`10 week`| Day 41 | 22.11.14 | Prototype 시즌2 1탄(카테고리 선택, 팀빌딩, 기획), 다국어처리 | ✔️ |
+|`10 week`| Day 42 | 22.11.15 | Prototype 시즌2 2탄(개발, 테스트, 팀원 교체), SwiftUI 4.0(NavigationStack, Grid) | ✔️ |
+|`10 week`| Day 43 | 22.11.16 | Prototype 시즌2 3탄(피드백 사항 적용, 발표 준비), SwiftUI 4.0(ShareLink, PhotoUI) | ✔️ |
+|`10 week`| Day 44 | 22.11.17 | Prototype 시즌2 4탄(Demo 발표), SwiftUI 4.0(Charts) | ✔️ |
 |`10 week`| `정기 휴강` | 22.11.18 | - | - |
 
 
@@ -143,6 +143,15 @@
 |`11 week`| Day 48 | 22.11.24 | API 연결2 | ✔️ |
 |`11 week`| Day 49 | 22.11.25 | SwiftUI Tutorial | ✔️ |
 
+
+#### 12주차
+| Week | Day | Date | Contents | ✅ |
+|:----:|:---:|:----:|------|:--:|
+|`12 week`| Day 50 | 22.11.28 | 스프린트 회고, Prototpye 시즌3 1탄(기획, 우선순위 ) | ✔️ |
+|`12 week`| Day 51 | 22.11.29 |  |  |
+|`12 week`| Day 52 | 22.11.30 |  |  |
+|`12 week`| Day 53 | 22.12.01 |  |  |
+|`12 week`| Day 54 | 22.12.02 |  |  |
 
 <br>
 
