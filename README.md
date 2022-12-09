@@ -98,7 +98,7 @@
 |`7 week`| Day 27 | 22.10.24 | [Obserable, Environment, Navigation](https://dadahae0320.tistory.com/34) | ✔️ |
 |`7 week`| Day 28 | 22.10.25 | [List, Navigation](https://dadahae0320.tistory.com/35) | ✔️ |
 |`7 week`| Day 29 | 22.10.26 | [Tab View, Context Menu Binding](https://dadahae0320.tistory.com/36) | ✔️ |
-|`7 week`| Day 30 | 22.10.27 | Graphic Drawing Basic, CSS와 Typography | ✔️ |
+|`7 week`| Day 30 | 22.10.27 | [Graphic Drawing Basic](https://dadahae0320.tistory.com/37), CSS와 Typography | ✔️ |
 |`7 week`| `정기 휴강` | 22.10.28 | - | - |
 
 
