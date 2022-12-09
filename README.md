@@ -127,10 +127,10 @@
 #### 10주차
 | Week | Day | Date | Contents | ✅ |
 |:----:|:---:|:----:|------|:--:|
-|`10 week`| Day 41 | 22.11.14 | Prototype 시즌2 1탄(카테고리 선택, 팀빌딩, 기획), 다국어처리 | ✔️ |
-|`10 week`| Day 42 | 22.11.15 | Prototype 시즌2 2탄(개발, 테스트, 팀원 교체), SwiftUI 4.0(NavigationStack, Grid) | ✔️ |
-|`10 week`| Day 43 | 22.11.16 | Prototype 시즌2 3탄(피드백 사항 적용, 발표 준비), SwiftUI 4.0(ShareLink, PhotoUI) | ✔️ |
-|`10 week`| Day 44 | 22.11.17 | Prototype 시즌2 4탄(Demo 발표), SwiftUI 4.0(Charts) | ✔️ |
+|`10 week`| Day 41 | 22.11.14 | <ul><li>Prototype 시즌2 1탄(카테고리 선택, 팀빌딩, 기획)</li> <li>다국어처리</li></ul>| ✔️ |
+|`10 week`| Day 42 | 22.11.15 | <ul><li>Prototype 시즌2 2탄(개발, 테스트, 팀원 교체)</li> <li>SwiftUI 4.0(NavigationStack, Grid)</li></ul> | ✔️ |
+|`10 week`| Day 43 | 22.11.16 | <ul><li>Prototype 시즌2 3탄(피드백 사항 적용, 발표 준비)</li> <li>SwiftUI 4.0(ShareLink, PhotoUI)</li></ul> | ✔️ |
+|`10 week`| Day 44 | 22.11.17 | <ul><li>Prototype 시즌2 4탄(Demo 발표)</li> <li>SwiftUI 4.0(Charts)</li></ul> | ✔️ |
 |`10 week`| `정기 휴강` | 22.11.18 | - | - |
 
 
@@ -149,9 +149,19 @@
 |:----:|:---:|:----:|------|:--:|
 |`12 week`| Day 50 | 22.11.28 | 스프린트 회고, Prototpye 시즌3 1탄(기획, 우선순위) | ✔️ |
 |`12 week`| Day 51 | 22.11.29 | Prototpye 시즌3 2탄(개발) | ✔️ |
-|`12 week`| Day 52 | 22.11.30 | -결석- |  |
+|`12 week`| Day 52 | 22.11.30 | 결석 | X |
 |`12 week`| Day 53 | 22.12.01 | Prototpye 시즌3 4탄(개발) | ✔️ |
 |`12 week`| Day 54 | 22.12.02 | Git 특강, Prototype 시즌3 5탄(개발, 발표) | ✔️ |
+
+
+#### 13주차
+| Week | Day | Date | Contents | ✅ |
+|:----:|:---:|:----:|------|:--:|
+|`13 week`| Day 55 | 22.12.05 |  | ✔️ |
+|`13 week`| Day 56 | 22.12.06 |  | ✔️ |
+|`13 week`| Day 57 | 22.12.07 |  | ✔️ |
+|`13 week`| Day 58 | 22.12.08 |  | ✔️ |
+|`13 week`| Day 59 | 22.12.09 |  | ✔️ |
 
 <br>
 
