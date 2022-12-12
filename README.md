@@ -159,11 +159,21 @@
 #### 13주차
 | Week | Day | Date | Contents | ✅ |
 |:----:|:---:|:----:|------|:--:|
-|`13 week`| Day 55 | 22.12.05 |  | ✔️ |
-|`13 week`| Day 56 | 22.12.06 |  | ✔️ |
-|`13 week`| Day 57 | 22.12.07 |  | ✔️ |
-|`13 week`| Day 58 | 22.12.08 |  | ✔️ |
+|`13 week`| Day 55 | 22.12.05 | Swift로 백엔드 개발하기(Vapor) | ✔️ |
+|`13 week`| Day 56 | 22.12.06 | Firebase: Realtime DB | ✔️ |
+|`13 week`| Day 57 | 22.12.07 | Firebase: Realtime DB | ✔️ |
+|`13 week`| Day 58 | 22.12.08 | Firebase: Realtime DB | ✔️ |
 |`13 week`| `정기 휴강` | 22.12.09 | - | - |
+
+
+#### 14주차
+| Week | Day | Date | Contents | ✅ |
+|:----:|:---:|:----:|------|:--:|
+|`14 week`| Day 59 | 22.12.11 | Firebase: Firestore | ✔️ |
+|`14 week`| Day 60 | 22.12.12 |  |  |
+|`14 week`| Day 61 | 22.12.13 |  |  |
+|`14 week`| Day 62 | 22.12.14 |  |  |
+|`14 week`| Day 63 | 22.12.15 |  |  |
 
 <br>
 
