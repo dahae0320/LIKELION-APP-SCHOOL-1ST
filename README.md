@@ -152,7 +152,7 @@
 |`12 week`| Day 50 | 22.11.28 | • Prototpye 시즌3 1탄(기획, 우선순위) <br>• 스프린트 회고| ✔️ |
 |`12 week`| Day 51 | 22.11.29 | • Prototpye 시즌3 2탄(개발) | ✔️ |
 |`12 week`| Day 52 | 22.11.30 | `결석` | X |
-|`12 week`| Day 53 | 22.12.01 | • Prototpye 시즌3 4탄(개발) • <br>Human Interface Guidelines(4) | ✔️ |
+|`12 week`| Day 53 | 22.12.01 | • Prototpye 시즌3 4탄(개발) <br>• Human Interface Guidelines(4) | ✔️ |
 |`12 week`| Day 54 | 22.12.02 | • Prototype 시즌3 5탄(개발, 발표) <br>• Git 특강  | ✔️ |
 
 
