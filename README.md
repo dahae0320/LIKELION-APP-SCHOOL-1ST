@@ -169,11 +169,11 @@
 #### 14주차
 | Week | Day | Date | Contents | ✅ |
 |:----:|:---:|:----:|------|:--:|
-|`14 week`| Day 59 | 22.12.11 | Firebase: Firestore | ✔️ |
-|`14 week`| Day 60 | 22.12.12 |  |  |
-|`14 week`| Day 61 | 22.12.13 |  |  |
-|`14 week`| Day 62 | 22.12.14 |  |  |
-|`14 week`| Day 63 | 22.12.15 |  |  |
+|`14 week`| Day 59 | 22.12.11 | Firebase: Firestore(실습 프로젝트 기획 및 개발) | ✔️ |
+|`14 week`| Day 60 | 22.12.12 | Firebase: Firestore(실습 프로젝트 개발) | ✔️ |
+|`14 week`| Day 61 | 22.12.13 | Firebase: Firestore(실습 프로젝트 개발) | ✔️ |
+|`14 week`| Day 62 | 22.12.14 | Firebase: Firestore(실습 프로젝트 테스트) | ✔️ |
+|`14 week`| Day 63 | 22.12.15 | Firebase: Firestore(실습 프로젝트 개선), MVP 개발 팀 선정 및 기획 | ✔️ |
 
 <br>
 
