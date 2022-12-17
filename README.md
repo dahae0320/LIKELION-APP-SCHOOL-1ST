@@ -152,28 +152,28 @@
 |`12 week`| Day 50 | 22.11.28 | • Prototpye 시즌3 1탄(기획, 우선순위) <br>• 스프린트 회고| ✔️ |
 |`12 week`| Day 51 | 22.11.29 | • Prototpye 시즌3 2탄(개발) | ✔️ |
 |`12 week`| Day 52 | 22.11.30 | `결석` | X |
-|`12 week`| Day 53 | 22.12.01 | • Prototpye 시즌3 4탄(개발) | ✔️ |
+|`12 week`| Day 53 | 22.12.01 | • Prototpye 시즌3 4탄(개발) • <br>Human Interface Guidelines(4) | ✔️ |
 |`12 week`| Day 54 | 22.12.02 | • Prototype 시즌3 5탄(개발, 발표) <br>• Git 특강  | ✔️ |
 
 
 #### 13주차
 | Week | Day | Date | Contents | ✅ |
 |:----:|:---:|:----:|------|:--:|
-|`13 week`| Day 55 | 22.12.05 | Swift로 백엔드 개발하기(Vapor) | ✔️ |
-|`13 week`| Day 56 | 22.12.06 | Firebase: Realtime DB | ✔️ |
-|`13 week`| Day 57 | 22.12.07 | Firebase: Realtime DB | ✔️ |
-|`13 week`| Day 58 | 22.12.08 | Firebase: Realtime DB | ✔️ |
+|`13 week`| Day 55 | 22.12.05 | • Swift로 백엔드 개발하기(Vapor) | ✔️ |
+|`13 week`| Day 56 | 22.12.06 | • Firebase: Realtime DB | ✔️ |
+|`13 week`| Day 57 | 22.12.07 | • Firebase: Realtime DB | ✔️ |
+|`13 week`| Day 58 | 22.12.08 | • Firebase: Realtime DB <br>• Human Interface Guidelines(5) | ✔️ |
 |`13 week`| `정기 휴강` | 22.12.09 | - | - |
 
 
 #### 14주차
 | Week | Day | Date | Contents | ✅ |
 |:----:|:---:|:----:|------|:--:|
-|`14 week`| Day 59 | 22.12.11 | Firebase: Firestore(실습 프로젝트 기획 및 개발) | ✔️ |
-|`14 week`| Day 60 | 22.12.12 | Firebase: Firestore(실습 프로젝트 개발) | ✔️ |
-|`14 week`| Day 61 | 22.12.13 | Firebase: Firestore(실습 프로젝트 개발) | ✔️ |
-|`14 week`| Day 62 | 22.12.14 | Firebase: Firestore(실습 프로젝트 테스트) | ✔️ |
-|`14 week`| Day 63 | 22.12.15 | Firebase: Firestore(실습 프로젝트 개선), MVP 개발 팀 선정 및 기획 | ✔️ |
+|`14 week`| Day 59 | 22.12.11 | • Firebase: Firestore(실습 프로젝트 기획 및 개발) | ✔️ |
+|`14 week`| Day 60 | 22.12.12 | • Firebase: Firestore(실습 프로젝트 개발) | ✔️ |
+|`14 week`| Day 61 | 22.12.13 | • Firebase: Firestore(실습 프로젝트 개발) | ✔️ |
+|`14 week`| Day 62 | 22.12.14 | • Firebase: Firestore(실습 프로젝트 테스트) <br>• Human Interface Guidelines(6) | ✔️ |
+|`14 week`| Day 63 | 22.12.15 | • Firebase: Firestore(실습 프로젝트 개선) <br>• MVP 개발 팀 선정 및 기획 | ✔️ |
 
 <br>
 
